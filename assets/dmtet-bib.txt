@@ -1,0 +1,7 @@
+@inproceedings{shen2021dmtet,
+title = {Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis},
+author = {Tianchang Shen and Jun Gao and Kangxue Yin and Ming-Yu Liu and Sanja Fidler},
+year = {2021},
+booktitle = {Advances in Neural Information Processing Systems (NeurIPS)}
+}
+
